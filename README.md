@@ -2,6 +2,8 @@
 
 独立 GitHub Pages 前端，与 Heyi 压裂工程数字工作台使用不同仓库及路径。
 
+在线访问：[打开气井生产曲线工作台](https://hy1161254897-art.github.io/welltrace-gas-workbench/)。
+
 按照项目所有者的最新要求，此版本无需密码，公开100口井的生产日数据和分析结果。页面、数据快照及导出文件均在本仓库托管；不依赖 ChatGPT Sites、外部API或单独服务器，不包含旧站访问密码或上传密钥。
 
 发布方式：GitHub Pages → Deploy from a branch → main / (root)。所有静态资源使用相对路径，可直接部署在项目子路径下，无需构建或外部CDN。
